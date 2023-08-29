@@ -1,0 +1,37 @@
+.filerBtn{
+   font-size: 18px;
+   padding: 8px 12px;
+   border-radius: 8px;
+   background-color: rgb(211, 140, 9);
+   color: white;
+   margin-left: 90px;
+   /* margin: auto; */
+   /* border: none; */
+}
+.main{
+    /* background-color: blueviolet; */
+    margin: 100px auto 0px auto;
+    width: 1500px;
+}
+.ALLbtn{
+    padding: 8px 12px;
+    margin-left: 90px;
+    background-color: rgb(211, 140, 9);
+   color: white;
+   border-radius: 8px;
+   font-size: 18px;
+}
+
+/* .manage h1{
+    color: rgb(39, 41, 72);
+    text-decoration: underline;
+    font-size: 40px;
+}
+.manage hr{
+    color: brown;
+  
+}
+*{
+    background-color:aliceblue;
+} */
+
